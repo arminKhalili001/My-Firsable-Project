@@ -1,0 +1,76 @@
+.Register{
+    margin:0px 39% ;
+    margin-top: 2rem ;
+
+}
+.Link-to-home{
+    color: lawngreen;
+    text-align: center;
+    margin-bottom: 2rem;
+    border: 1px solid black;
+    margin-left: 5.8rem;
+    width: 10rem;
+    height: 2.2rem;
+    background: black;
+    padding-top: 1rem;
+    
+}
+.Link-to-home-Link{
+    text-align: center;
+    color: #FFFF;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.Form{
+    
+    border:1px solid gray;
+    height: 25rem;
+    width: 20rem;
+    padding: 1rem;
+    border-radius: .3rem;
+    outline: none !important;
+    
+}
+
+.Form >.input-box > label {
+    display: block;
+    margin: .5rem;
+    margin-left: 0rem;
+
+}
+.Form  > h1 {
+    display: block;
+    text-align: left;
+    font-size: 25px;
+    
+}
+.Form >.input-box > .input-controler {
+
+    width: 100%;
+    height: 2rem;
+    border:1px solid gray;
+    border-radius: .2rem;
+    box-sizing: border-box;
+    outline: none !important;
+    
+}
+.input-box-password-span{
+    font-size: 13px;
+    visibility:initial;
+}
+.Form > .input-box > .Form-btn{
+    margin:.5rem 0rem;
+    width: 100%;
+    height: 2rem;
+    border:1px solid gray;
+    border-radius: .2rem;
+    background-color: rgb(247, 190, 86);
+    outline: none !important;
+}
+
+
+
+
+

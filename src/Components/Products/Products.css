@@ -1,0 +1,13 @@
+body{
+ direction: ltr;
+}
+.Products{
+   
+    position: absolute;
+
+}
+.Products > img {
+    width: 98%;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}

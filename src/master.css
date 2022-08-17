@@ -1,0 +1,81 @@
+.blog  {
+    margin: 10px;
+    background: #fff;
+}
+.blog .post {
+    border: 2px #888 solid ;
+    padding: 10px ;
+   /* margin: 10px; */
+    margin-bottom: 8px ;
+}
+
+.blog .post h3 {
+    border-bottom: 2px #888 solid;
+    margin-top: 2px ;
+    padding: 5px;
+}
+.new-post {
+    border: 2px #888 solid ;
+    page-break-after: 10px ;
+    margin: 10px ;
+    margin-bottom: 15px ;
+    padding: 8px;
+}
+.new-post input , textarea {
+    display: block;
+    width: 100% ;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 5px ;
+
+}
+ .new-post button {
+     padding: 5px ;
+     background: cadetblue;
+     font-weight: bold;
+     border: 1px rgb(2, 2, 99) solid ;
+ }
+
+ .navigatin {
+     border-bottom: 1px #888 solid;
+ }
+ .navigatin ul {
+     margin: 0 ;
+     padding: 0;
+     list-style: none ;
+ }
+ .navigatin ul li{
+     list-style: none ;
+     display: inline-block;
+     border: 1px solid #448;
+     margin: 5px;
+ }
+ .navigatin ul li a {
+     padding: 12px 15px;
+     display: block;
+     background: #eee ;
+     text-decoration:none ;
+
+ }
+ .navigatin ul li a:hover,
+ .navigatin ul li a:focus {
+    
+    background: #fff ;
+    
+
+}
+
+ .navigatin ul li a.active {
+    
+    background: lightgreen ;
+    
+
+}
+.Loding {
+    background-image: url(Loading.gif) ;
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    width: 80px;
+    height: 80px;
+    text-align: center ;
+}

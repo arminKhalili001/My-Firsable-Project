@@ -1,0 +1,44 @@
+.second-header-li-logout {
+    
+    
+    color: rgb(241, 10, 10);
+    margin: 0rem;
+    margin-right: 1.5rem;
+    padding-right: 0rem;
+    margin-bottom: 0rem;
+    float: left;
+    
+        
+        
+    
+}
+.second-header-li-Logout:hover{
+
+    border: 1px solid #ffff;
+    padding: .1rem;
+}
+
+
+.Logout-btn {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    /*optional*/
+    /* font-family: arial, sans-serif; */
+    /*input has OS specific font-family*/
+    color: rgb(241, 10, 10);
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 0rem;
+    position:absolute;
+    padding-bottom: .7rem;
+    font-weight:500;
+    font-size: 17px;
+    
+}
+
+.Logout-btn:hover
+{
+    background-color: rgb(250, 245, 247);
+
+}
