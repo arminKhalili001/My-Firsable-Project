@@ -1,0 +1,59 @@
+
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Sport",
+            "price": 79,
+            "image":"/imges/HomePosts/Sport.jpg",
+            "to":"./Sport"
+            
+            
+        },
+        {
+            "id": 2,
+            "title":"Computer",
+            "price": 59,
+            "image":"/imges/HomePosts/Computer.jpg",
+            "to":"./Computer"
+            
+
+        },
+        {
+            "id": 3,
+            "title":"Electronics",
+            "price": 39,
+            "image":"/imges/HomePosts/Electronics.jpg",
+            "to":"./Electronics"
+            
+
+        },
+        {
+            "id": 4,
+            "title": "Music",
+            "price": 29,
+            "image":"/imges/HomePosts/Music.jpg",
+            "to":"./Music"
+            
+
+        },
+        {
+            "id": 5,
+            "title": "Food",
+            "price": 89,
+            "image":"/imges/HomePosts/Food.jpg",
+            "to":"./Food"
+            
+
+        },
+        {
+            "id": 6,
+            "title":"House",
+            "price": 49,
+            "image":"/imges/HomePosts/Home.jpg",
+            "to":"./House"
+            
+
+        }
+    ]
+}
